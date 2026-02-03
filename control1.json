@@ -1,6 +1,14 @@
 {
   "active": true,
   "password_required": true,
-  "users": {},
+
+  "users": {
+    "uid_ADMIN": {
+      "name": "Shoaib0046",
+      "password": "Shoaib@0046",
+      "role": "admin"
+    }
+  },
+
   "blocked": []
 }
